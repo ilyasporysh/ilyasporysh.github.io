@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(237, 237, 237);
+}
+
+header {
+    position: absolute; top:0; left:0; right:0;
+
+}
+
+.txt1 {
+    margin-top: 40px;
+
+}
+
+.soder {
+    display: -webkit-flex;
+    display: flexbox;
+    flex-direction: column;
+    margin-top:30px;
+    margin-left: 5%;
+    margin-right: 20%;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.txt2 {
+    margin-left: 2%;
+}
+
+.txt3 {
+    margin-inline: 4%;
+}
+
+
