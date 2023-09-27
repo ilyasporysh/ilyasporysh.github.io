@@ -4,11 +4,22 @@ body {
 
 header {
     position: absolute; top:0; left:0; right:0;
+    background-color: rgb(30, 30, 30);
+    height: 140px;
+    color: rgb(222, 215, 215);
+    box-shadow: 5px 1px 4px rgb(111, 111, 111);
 
 }
 
+.headlg {
+    padding-left: 6%;
+    padding-top: 27px;
+    font-size: 320%;
+}
+
 .txt1 {
-    margin-top: 40px;
+    margin-top: 170px;
+    margin-left: 6%;
 
 }
 
@@ -17,18 +28,24 @@ header {
     display: flexbox;
     flex-direction: column;
     margin-top:30px;
-    margin-left: 5%;
+    margin-left: 6%;
     margin-right: 20%;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 4px rgb(125, 123, 123);
 }
 
 .txt2 {
+    margin-top: 5px;
     margin-left: 2%;
+    padding-bottom: 5px;
 }
 
 .txt3 {
+    margin-top: 5px;
     margin-inline: 4%;
+    padding-bottom: 5px;
+    white-space: pre-wrap;
 }
 
 
