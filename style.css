@@ -12,7 +12,7 @@ header {
 }
 
 .headlg {
-    padding-left: 6%;
+    padding-left: 7%;
     padding-top: 27px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 400%;
@@ -21,7 +21,7 @@ header {
 
 .txt1 {
     margin-top: 170px;
-    margin-left: 7.5%;
+    margin-left: 6%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 600;
     font-size: 160%;
@@ -32,16 +32,15 @@ header {
     display: flexbox;
     flex-direction: column;
     margin-top:30px;
-    margin-left: 6%;
+    margin-left: 4%;
     margin-right: 20%;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    box-shadow: 1px 1px 4px rgb(125, 123, 123);
 }
 
 .txt2 {
     margin-top: 5px;
-    margin-left: 2%;
+    margin-left: 2.5%;
     padding-bottom: 5px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 140%;
@@ -49,7 +48,7 @@ header {
 
 .txt3 {
     margin-top: 5px;
-    margin-inline: 4%;
+    margin-inline: 2.5%;
     padding-bottom: 5px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     white-space: pre-wrap;
