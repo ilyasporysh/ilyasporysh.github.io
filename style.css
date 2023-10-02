@@ -14,13 +14,17 @@ header {
 .headlg {
     padding-left: 6%;
     padding-top: 27px;
-    font-size: 320%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 400%;
+    font-weight: 900;
 }
 
 .txt1 {
     margin-top: 170px;
-    margin-left: 6%;
-
+    margin-left: 7.5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 160%;
 }
 
 .soder {
@@ -39,13 +43,18 @@ header {
     margin-top: 5px;
     margin-left: 2%;
     padding-bottom: 5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 140%;
 }
 
 .txt3 {
     margin-top: 5px;
     margin-inline: 4%;
     padding-bottom: 5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     white-space: pre-wrap;
+    font-size: 120%;
+    word-spacing: 0.1cm;
 }
 
 
